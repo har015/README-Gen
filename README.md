@@ -8,4 +8,4 @@ once questions end, user is presented with message confirming read me file creat
 
 PREVIEW 
 
-![image](https://user-images.githubusercontent.com/111612523/202339912-ec0be17a-8e6b-4c27-8855-4888f94986dd.png)
+![image](https://user-images.githubusercontent.com/111612523/202340104-4ac755b7-462a-4d2e-9b9d-16911daa028f.png)
